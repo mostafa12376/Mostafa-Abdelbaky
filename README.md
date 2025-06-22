@@ -26,9 +26,7 @@
 <p align="center">
   <!-- Skillicons for major tech stack -->
   <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,github,html,css" />
-  <img src="https://skillicons.dev/icons?i=wireshark,nmap,vim,vscode,metasploit" />
-</p>
-<p align="center">
+  <img src="https://skillicons.dev/icons?i=vim,vscode,metasploit" />
   <img src="https://img.icons8.com/color/48/kali-linux.png" alt="Kali Linux" title="Kali Linux" />
   <img src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="Ubuntu" title="Ubuntu" />
 </p>
