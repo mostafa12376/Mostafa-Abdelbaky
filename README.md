@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f9XgHH0LK5r3c/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
 </p>
 
 🔐 **Cybersecurity Engineer | Network Security | Penetration Testing**  
