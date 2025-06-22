@@ -24,8 +24,19 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
+  <!-- Skillicons for major tech stack -->
   <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,github,html,css" />
-  <img src="https://skillicons.dev/icons?i=wireshark,nmap" />
+  <img src="https://skillicons.dev/icons?i=wireshark,nmap,azure,aws,vim,vscode,nginx,jenkins,metasploit" />
+</p>
+
+<p align="center">
+  <!-- Custom icons for Fortinet and Cisco -->
+  <img src="https://img.icons8.com/color/48/fortinet.png" alt="Fortinet" title="Fortinet" />
+  <img src="https://img.icons8.com/color/48/cisco.png" alt="Cisco" title="Cisco" />
+  <!-- Optional additional icons -->
+  <img src="https://img.icons8.com/color/48/kali-linux.png" alt="Kali Linux" title="Kali Linux" />
+  <img src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="Ubuntu" title="Ubuntu" />
+  <img src="https://img.icons8.com/color/48/network-card.png" alt="Networking" title="Networking" />
 </p>
 
 ---
