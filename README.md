@@ -1,45 +1,54 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=FF5733&duration=4000&lines=Hello+World!+🌍;+I'm+Ahmed+El+sayed!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=700&height=70&color=36BC9B&duration=4000&lines=Hello+World!+🌍;+I'm+Mostafa+Abd+Elbaky!;+Cybersecurity+Enthusiast!;" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/f9XgHH0LK5r3c/giphy.gif" width="500">
 </p>
 
-
-
-🚀 **Software Engineer | Back-end Developer**  
-💻 **Java Spring Boot | SQL | Problem Solver**  
+🔐 **Cybersecurity Engineer | Network Security | Penetration Testing**  
+💻 **Python | Bash | Wireshark | Nmap | Burp Suite | FortiGate | Cisco CUCM**  
 
 ---
 
 ### ⚡ About Me
-- 🔹 Computer Science Graduate from Cairo University (2019 - 2023)
-- 🔹 Passionate about building scalable and efficient backend systems.  
-- 🔹 Strong problem-solving skills with experience in **Java, Spring Boot, and SQL**.  
-- 🔹 Actively solving problems on **LeetCode** to sharpen my skills.  
-- 🔹 Always learning and exploring new technologies!  
+- 🎓 Graduate of **Cairo University – Faculty of Computer and Artificial Intelligence (IT Department)** with **Honors**  
+- 🛡️ Passionate about **offensive security**, **vulnerability assessment**, and **threat analysis**  
+- 🧠 Hands-on experience with **penetration testing**, **EDR tools (Wazuh)**, and **bug bounty hunting**  
+- 🔧 Skilled in **Python**, **Bash**, **Wireshark**, **Metasploit**, and firewall configuration (FortiGate, Cisco Firepower)  
+- 💬 Enjoy simplifying complex security topics and mentoring others  
+- 🔍 Constant learner – currently sharpening skills with **TryHackMe**, **PortSwigger**, and **Hack The Box**  
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,github,mysql,mongodb,postgres,mysql,django,cs" />
-  <img src="https://skillicons.dev/icons?i=html,css,cpp,js,docker,postman,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,github,html,css" />
+  <img src="https://skillicons.dev/icons?i=wireshark,nmap" />
 </p>
 
 ---
+
+### 🎯 Areas of Focus  
+- 🔸 Network & Web Application Penetration Testing  
+- 🔸 Vulnerability Assessment & CVE Research  
+- 🔸 Network Monitoring & Incident Response  
+- 🔸 Virtualization & Secure Testing Environments  
+- 🔸 Unified Communications (Cisco CUCM/CME, Avaya Aura)  
+
+---
+
 ### 📊 GitHub Stats  
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmedelsayed247&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedelsayed247&layout=compact&theme=dark)  
+![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafaAbdElbaky&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaAbdElbaky&layout=compact&theme=dark)  
 
 ---
 
 ### 📫 Connect With Me  
-📩 **Email**: [ahmedelsayedabdelaty4@gmail.com](mailto:ahmedelsayedabdelaty4@gmail.com)  
-💼 **LinkedIn**: [Ahmed ElSayed](https://www.linkedin.com/in/ahmed-el-sayed-776a28233/)
+📩 **Email**: [mostafa.abdo12376@gmail.com](mailto:mostafa.abdo12376@gmail.com)  
+💼 **LinkedIn**: [Mostafa Abd Elbaky](https://www.linkedin.com/in/mostafa-abd-elbaky-8759a3219/)  
 
 ---
 
-🔥 **"Code. Learn. Improve. Repeat."** 🚀  
+🔥 **"Secure. Learn. Practice. Repeat."** 🚀  
